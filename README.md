@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi there, I am Viktor Kniahnitskyi 👋
+Experienced in modern web technologies, including React, TypeScript and Next.js on the Front-end and Node.js (with NestJS) on the Back-end side.
 <h3>Contacts:</h3>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viktor-kniahnitskyi/)
@@ -26,8 +26,9 @@ Here are some ideas to get you started:
 
 <h2 align="center">Languages :</h3>
 
-| 🇺🇦 **Ukrainian** - Native | 🇬🇧 **English** - Upper-Intermediate (B2) |
-|---------------------------|------------------------------|
+| 🇺🇦 **Ukrainian** - Native |
+|------------------------------|
+| 🇬🇧 **English** - Upper-Intermediate (B2) |
 
 <h2 align="center">Skills</h3>
 
