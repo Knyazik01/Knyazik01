@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+<h3>Contacts:</h3>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viktor-kniahnitskyi/)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/VktrKn)
+[![DOU](https://s.dou.ua/assets/img/favicon32.png)](https://dou.ua/users/knyazik01/)
+
+[![Viktor Kniahnitskyi profile views](https://u8views.com/api/v1/github/profiles/36068254/views/day-week-month-total-count.svg)](https://u8views.com/github/Knyazik01)
+
 <!--
 **Knyazik01/Knyazik01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,6 +30,13 @@ Here are some ideas to get you started:
 |---------------------------|------------------------------|
 
 <h2 align="center">Skills</h3>
+
+<a href="https://github.com/Knyazik01">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Knyazik01&theme=ayu-mirage&hide=css,html,markdown&langs_count=3" />
+</a>
+<a href="https://github.com/Knyazik01">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Knyazik01&show_icons=true&count_private=true&line_height=27&theme=ayu-mirage" />
+</a>
 <h3>Frontend:</h3>
 
 ![My Skills](https://skillicons.dev/icons?i=react,nextjs,vue,redux,html,css,sass,webpack,vite,tailwind)
@@ -34,10 +49,3 @@ Here are some ideas to get you started:
 
 ![My Skills](https://skillicons.dev/icons?i=py,git,github,gitlab,npm,yarn,bash,regex)
 
-<h3>Contacts:</h3>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viktor-kniahnitskyi/)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/VktrKn)
-[![DOU](https://s.dou.ua/assets/img/favicon32.png)](https://dou.ua/users/knyazik01/)
-
-[![Viktor Kniahnitskyi profile views](https://u8views.com/api/v1/github/profiles/36068254/views/day-week-month-total-count.svg)](https://u8views.com/github/Knyazik01)
