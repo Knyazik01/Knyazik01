@@ -40,13 +40,13 @@ Here are some ideas to get you started:
 </a>
 <h3>Frontend:</h3>
 
-![My Skills](https://skillicons.dev/icons?i=react,nextjs,vue,redux,html,css,sass,webpack,vite,tailwind)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,vue,redux,html,css,sass,webpack,vite,tailwind)](https://github.com/Knyazik01)
 
 <h3>Backend:</h3>
 
-![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,nestjs,ruby,rails,postgres,docker)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,nestjs,ruby,rails,postgres,docker)](https://github.com/Knyazik01)
 
 <h3>Other: </h3>
 
-![My Skills](https://skillicons.dev/icons?i=py,git,github,gitlab,npm,yarn,bash,regex)
+[![My Skills](https://skillicons.dev/icons?i=py,git,github,gitlab,npm,yarn,bash,regex)](https://github.com/Knyazik01)
 
